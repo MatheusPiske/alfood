@@ -31,3 +31,5 @@ Depois, acesse <a href="http://localhost:3000/">http://localhost:3000/</a> no se
 ## 📚 Mais informações do curso
 
 Busque na plataforma da Alura o curso **Integrando seu projeto React com APIs** publicado na Escola Frontend.
+
+LINK IMAGEM DE BATATA FRITA: <a href="https://br.freepik.com/fotos-gratis/batatas-fritas-crocantes-com-ketchup-e-maionese_10401244.htm#query=batata%20frita&position=0&from_view=search&track=sph">Imagem de jcomp</a> no Freepik
